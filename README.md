@@ -55,18 +55,13 @@
 <br>
 
 <div align=center>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaiman001221&show_icons=true&locale=en&theme=tokyonight" alt="sula" />
+   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sulaiman001221&show_icons=true&locale=en&theme=tokyonight" alt="sula" />
 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman001221&&theme=tokyonight" alt="sula" />
+   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman001221&&theme=tokyonight" alt="sula" />
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman001221&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sula"/>
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman001221&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sula"/>
 </div>
    
-
-   
-
-
-    
 <br/><br/>
 
 <hr/>
