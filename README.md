@@ -53,12 +53,20 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman001221&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sula" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaiman001221&show_icons=true&locale=en&theme=tokyonight" alt="sula" /></p>
+<div align=center>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaiman001221&show_icons=true&locale=en&theme=tokyonight" alt="sula" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman001221&&theme=tokyonight" alt="sula" /></p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman001221&&theme=tokyonight" alt="sula" />
 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman001221&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sula"/>
+</div>
+   
+
+   
+
+
+    
 <br/><br/>
 
 <hr/>
