@@ -1,4 +1,7 @@
-<img height="500" src="Images/Ul_DEV_ENIMATION.gif" atl="DEV Animation">
+<div align="center">
+    <img height=400 src="Images/Ul_DEV_ENIMATION.gif" atl="DEV Animation">
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sulaiman001221.sulaiman001221" />
 
 <h1 align="center">
