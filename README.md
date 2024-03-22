@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a full-time leaner at **Umuzi**
+ 🔭 I’m currently a leaner at **Umuzi**
  
  🌱 I’m currently learning **HTML, CSS, JavaScript**
 
