@@ -1,5 +1,5 @@
 <div align="center">
-    <img height=400 src="Images/Ul_DEV_ENIMATION.gif" atl="DEV Animation">
+    <img height=300 src="Images/Ul_DEV_ENIMATION.gif" atl="DEV Animation">
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sulaiman001221.sulaiman001221" />
@@ -73,7 +73,7 @@
 <br/>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+🤜;+Hit+me+up+on+Linkedin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+🤜;+Hit+me+up+on+Linkedin!;" />
 </h2>
 
 <br/>
