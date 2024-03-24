@@ -46,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h3>The only 🐍 I enjoy feeding</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sulaiman001221/sulaiman001221/output/github-contribution-grid-snake.svg" />
   
