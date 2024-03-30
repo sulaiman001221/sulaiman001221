@@ -14,9 +14,9 @@
 
 <div align="center">
  
- 🔭 I’m currently a leaner at **Umuzi**
+ 🔭 I’m currently a student at **Umuzi**
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+ 🌱 Learning **HTML, CSS, JavaScript**
 
 ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
 
