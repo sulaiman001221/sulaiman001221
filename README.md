@@ -14,11 +14,11 @@
 
 <div align="center">
  
- 🔭 I’m currently a student at **Umuzi**
+ 🔭 I host a Higher Certificate in **Information Technology**
  
- 🌱 Learning **HTML, CSS, JavaScript**
+ 🌱 Learning **React, Java, C#**
 
-⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
+⚡ Fun fact **My record time of finding a bug is 3hrs, it was missing a semi-colon**
 
  </div>
  
