@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I host a Higher Certificate in **Information Technology**
+ 🔭 I hold a Higher Certificate in **Information Technology**
  
  🌱 Learning **React, Java, C#**
 
