@@ -58,14 +58,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
-   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sulaiman001221&show_icons=true&locale=en&theme=tokyonight" alt="sula" />
+<div align="center">
 
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman001221&&theme=tokyonight" alt="sula" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=sulaiman001221&theme=tokyonight" alt="Sula's GitHub streak" />
 
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulaiman001221&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sula"/>
 </div>
-   
+
 <br/><br/>
 
 <hr/>
@@ -73,7 +71,9 @@
 <br/>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+🤜;+Hit+me+up+on+Linkedin!;" />
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+%F0%9F%A4%9C;Hit+me+up+on+Linkedin!" alt="Thank you for visiting, hit me up on LinkedIn" />
+  </a>
 </h2>
 
 <br/>
