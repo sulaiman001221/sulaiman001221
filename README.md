@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sulaiman+Ndlovu!;" />
 </h1>
 
-<h3 align="center">A passionate software developer based in Pretoria (South Africa) </h3>
+<h3 align="center">Not only I can communicate to people; I can also communicate to computers </h3>
 
 <br/>
 
@@ -16,9 +16,9 @@
  
  🔭 I hold a Higher Certificate in **Information Technology**
  
- 🌱 Learning **React, Java, C#**
+ 🌱 Learning **SQL and Python**
 
-⚡ Fun fact **My record time of finding a bug is 3hrs, it was missing a semi-colon**
+⚡ Fun fact **My record time of finding a bug is 3hrs, it was missing a semi-colon. NB: that was before AI**
 
  </div>
  
